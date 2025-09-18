@@ -1,0 +1,7 @@
+C:\Users\abin.augustine.CCTS\Music\ShopZone\ShopZone\obj\Debug\net8.0\ShopZone.csproj.AssemblyReference.cache
+C:\Users\abin.augustine.CCTS\Music\ShopZone\ShopZone\obj\Debug\net8.0\ShopZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abin.augustine.CCTS\Music\ShopZone\ShopZone\obj\Debug\net8.0\ShopZone.AssemblyInfoInputs.cache
+C:\Users\abin.augustine.CCTS\Music\ShopZone\ShopZone\obj\Debug\net8.0\ShopZone.AssemblyInfo.cs
+C:\Users\abin.augustine.CCTS\Music\ShopZone\ShopZone\obj\Debug\net8.0\ShopZone.csproj.CoreCompileInputs.cache
+C:\Users\abin.augustine.CCTS\Music\ShopZone\ShopZone\obj\Debug\net8.0\ShopZone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abin.augustine.CCTS\Music\ShopZone\ShopZone\obj\Debug\net8.0\ShopZone.MvcApplicationPartsAssemblyInfo.cache
